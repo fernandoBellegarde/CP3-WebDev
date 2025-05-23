@@ -25,8 +25,7 @@ Este projeto é um formulário interativo feito com **HTML**, **CSS** e **JavaSc
 ## 💡 Regras de validação
 
 - O campo de **produto** não pode estar vazio.  
-- O campo de **preço**:
-- Deve ser maior que zero   
+- O campo de **preço**: deve ser maior que zero   
 - O **departamento** deve ser escolhido (não pode ficar com a opção padrão).
 
 Caso alguma regra não seja respeitada, uma mensagem de erro será exibida abaixo do formulário e o produto **não será cadastrado**.
