@@ -39,6 +39,7 @@ Caso alguma regra não seja respeitada, uma mensagem de erro será exibida abaix
 - CSS
 - JavaScript 
 
+---
 
 ## 🧑 Componentes do Grupo
 
